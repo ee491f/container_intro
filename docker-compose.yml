@@ -1,0 +1,8 @@
+version: '3'
+services:
+  three-nine:
+    image: python:3.9.0
+    #build: .
+
+  three-eight:
+    image: python:3.8.6
